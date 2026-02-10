@@ -1,0 +1,7 @@
+kitty|:kitty:
+Font Book|:default:
+Finder|:finder:
+Safari|:safari:
+Activity Monitor|:activity_monitor:
+Telegram|:telegram:
+Music|:music:
