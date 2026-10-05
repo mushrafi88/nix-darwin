@@ -133,6 +133,8 @@ keymap = [
      # Goto
 	{ on = [ "g", "s" ],       run = "cd /Volumes/T7/mnt/study/Physics/PhD",              desc = "Go to the study directory" }, 
     { on = [ "g", "p" ],       run = "cd /Volumes/T7/mnt/research/qpinn_de",              desc = "Go to the research directory" },
+    { on = [ "g", "r" ],       run = "cd /Volumes/T7/mnt/research",              desc = "Go to the research directory" },
+
 
 	# Tabs
 	{ on = [ "t", "t" ], run = "tab_create --current",     desc = "Create a new tab in CWD" },

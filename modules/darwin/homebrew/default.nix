@@ -51,6 +51,8 @@
       "sevenzip"
       "switchaudio-osx"
       "nowplaying-cli"
+      "node"
+      "pandoc"
     ];
 
     # GUI apps (casks)
